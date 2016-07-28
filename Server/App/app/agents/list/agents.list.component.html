@@ -1,0 +1,17 @@
+<table class='table table-striped table-bordered'>
+    <tr>
+        <th>Name</th>
+        <th>Host Name</th>
+        <th>Ip Address</th>
+        <th>Port</th>
+        <th>Roles</th>
+    </tr>
+    <tr *ngFor='#agent of agents'>
+        <td>{{agent.Name}}</td>
+        <td>{{agent.HostName}}</td>
+        <td>{{agent.Ip}}</td>
+        <td>{{agent.Port}}</td>
+        <td>{{agent.Roles}}</td>            
+    </tr>
+</table>
+

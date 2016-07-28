@@ -1,0 +1,86 @@
+﻿Installing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe assembly.
+Committing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Rolling back assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Installing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Uninstalling assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Uninstalling assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Installing service Coreworx Deployment Agent...
+Service Coreworx Deployment Agent has been successfully installed.
+Creating EventLog source Coreworx Deployment Agent in log Application...
+Committing assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Uninstalling assembly 'C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.exe
+   logfile = C:\Dev\rnd\DeploymentManager\Agent\Agent\bin\Debug\Agent.InstallLog
+Removing EventLog source Coreworx Deployment Agent.
+Service Coreworx Deployment Agent is being removed from the system...
+Service Coreworx Deployment Agent was successfully removed from the system.

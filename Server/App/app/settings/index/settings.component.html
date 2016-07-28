@@ -1,0 +1,45 @@
+<form *ngIf="settings" class="smart-form" data-smart-registration-form #frm="ngForm" (ngSubmit)="onSave()">
+    <!--header>
+        Server Settings
+    </header-->
+
+    <fieldset>
+        <section>
+            <label class="label">Id</label>
+            <label class="input">
+                <input type="text" [(ngModel)]="settings.Id" readonly="readonly" >
+            </label>
+        </section>
+
+        <section>
+            <label class="label">Name</label>
+            <label class="input"> <i class="icon-append fa fa-user"></i>
+                <input type="text" [(ngModel)]="settings.Name" name="username" placeholder="Name">
+                <b class="tooltip tooltip-bottom-right">The name of this server</b> 
+            </label>
+        </section>
+
+        <section>
+            <label class="label">Description</label>
+            <label class="textarea"> <i class="icon-append fa fa-envelope-o"></i>
+                <textarea rows="3" [(ngModel)]="settings.Description" placeholder="Enter description" ></textarea>
+                <b class="tooltip tooltip-bottom-right">A short description of this server</b> 
+            </label>
+        </section>
+
+        <section>
+            <label class="label">Packages Folder</label>
+            <label class="input"> <i class="icon-append fa fa-lock"></i>
+                <input type="text" [(ngModel)]="settings.PackagesFolder" placeholder="Folder to store packages">
+                <b class="tooltip tooltip-bottom-right">Specifies the folder where packages are stored</b> 
+            </label>
+        </section>
+    </fieldset>
+
+    <footer>
+        <!-- [disabled]="!frm.form.valid || !frm.form.dirty" -->
+        <button type="submit" class="btn btn-primary" >
+            Save Changes
+        </button>
+    </footer>
+</form>
